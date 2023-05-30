@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="city">
+<h2>viji</h2>
+<p>viji wow.</p>
+</div> 
+
+<div class="city">
+<h2>mahesh babu</h2>
+<p>mahesh babu indian hero.</p>
+</div>
+
+<div class="city">
+<h2>code</h2>
+<p>Just testing the code.</p>
+</div>
+
+</body>
+</html>
+
